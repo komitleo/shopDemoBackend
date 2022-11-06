@@ -19,7 +19,7 @@ public class ProductController {
                 new Product("Produkt 1", "Kategoria 2", "Opis 1", new BigDecimal("10.99"), "PLN"),
                 new Product("Produkt 1", "Kategoria 2", "Opis 1", new BigDecimal("10.99"), "PLN"),
                 new Product("Produkt 1", "Kategoria 2", "Opis 1", new BigDecimal("10.99"), "PLN")
-                );
+        );
     }
 
 }
